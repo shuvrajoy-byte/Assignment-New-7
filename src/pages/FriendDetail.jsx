@@ -10,7 +10,7 @@ export default function FriendDetail() {
   const [friend, setFriend] = useState(null);
 
   useEffect(() => {
-    fetch('/friends.json')
+  fetch(`${import.meta.env.BASE_URL}data.json`)
       .then(res => res.json())
       .then(data => setFriend(data.find(f => f.id === parseInt(id))));
   }, [id]);

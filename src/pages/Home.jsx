@@ -7,7 +7,7 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/friends.json')
+    fetch(`${import.meta.env.BASE_URL}data.json`)
       .then(res => res.json())
       .then(data => {
         setFriends(data);

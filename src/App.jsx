@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom'; 
 import { Toaster } from 'react-hot-toast';
 import { TimelineProvider } from './context/TimelineContext';
 import Navbar from './components/Navbar';
@@ -11,7 +11,7 @@ import NotFound from './pages/NotFound';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <TimelineProvider>
         <div className="min-h-screen flex flex-col bg-gray-50">
           <Navbar />
@@ -50,6 +50,6 @@ export default function App() {
         }}
       />
       </TimelineProvider>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
