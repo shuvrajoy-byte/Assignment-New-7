@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "David Kim",
+    "picture": "https://randomuser.me/api/portraits/men/1.jpg",
+    "email": "david@example.com",
+    "days_since_contact": 62,
+    "status": "almost-due",
+    "tags": ["WORK"],
+    "bio": "A great colleague and mentor.",
+    "goal": 14,
+    "next_due_date": "2025-07-20"
+  },
+  {
+    "id": 2,
+    "name": "Emma Wilson",
+    "picture": "https://randomuser.me/api/portraits/women/2.jpg",
+    "email": "emma@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["FAMILY"],
+    "bio": "Sister. We love to travel together.",
+    "goal": 7,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 3,
+    "name": "Lisa Nakamura",
+    "picture": "https://randomuser.me/api/portraits/women/3.jpg",
+    "email": "lisa@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["WORK"],
+    "bio": "Product manager at my previous company.",
+    "goal": 30,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 4,
+    "name": "James Wright",
+    "picture": "https://randomuser.me/api/portraits/men/4.jpg",
+    "email": "james@example.com",
+    "days_since_contact": 62,
+    "status": "overdue",
+    "tags": ["HOBBY", "TRAVEL"],
+    "bio": "Adventure seeker and travel blogger.",
+    "goal": 14,
+    "next_due_date": "2025-08-01"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Chen",
+    "picture": "https://randomuser.me/api/portraits/women/5.jpg",
+    "email": "sarah@example.com",
+    "days_since_contact": 15,
+    "status": "on-track",
+    "tags": ["COLLEGE"],
+    "bio": "Best friend from university.",
+    "goal": 21,
+    "next_due_date": "2025-06-30"
+  },
+  {
+    "id": 6,
+    "name": "Marcus Lee",
+    "picture": "https://randomuser.me/api/portraits/men/6.jpg",
+    "email": "marcus@example.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["GYM"],
+    "bio": "Fitness coach and gym buddy.",
+    "goal": 7,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 7,
+    "name": "Aisha Patel",
+    "picture": "https://randomuser.me/api/portraits/women/7.jpg",
+    "email": "aisha@example.com",
+    "days_since_contact": 10,
+    "status": "almost-due",
+    "tags": ["COOKING", "WORK"],
+    "bio": "Inspirational chef and kind colleague.",
+    "goal": 14,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 8,
+    "name": "Tom Brown",
+    "picture": "https://randomuser.me/api/portraits/men/8.jpg",
+    "email": "tom@example.com",
+    "days_since_contact": 90,
+    "status": "overdue",
+    "tags": ["NEIGHBOR"],
+    "bio": "Friendly neighbor from the suburbs.",
+    "goal": 30,
+    "next_due_date": "2025-06-10"
+  },
+  {
+    "id": 9,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/9.jpg",
+    "email": "olivia@example.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["MUSIC"],
+    "bio": "Guitarist and music producer.",
+    "goal": 15,
+    "next_due_date": "2025-08-05"
+  },
+  {
+    "id": 10,
+    "name": "Ryan O'Brien",
+    "picture": "https://randomuser.me/api/portraits/men/10.jpg",
+    "email": "ryan@example.com",
+    "days_since_contact": 28,
+    "status": "almost-due",
+    "tags": ["GAMING"],
+    "bio": "Gaming partner for multiplayer games.",
+    "goal": 30,
+    "next_due_date": "2025-07-28"
+  }
+]
